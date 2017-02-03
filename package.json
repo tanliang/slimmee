@@ -1,0 +1,29 @@
+{
+  "name": "Slimmee",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "./node_modules/.bin/react-native start",
+    "ios": "./node_modules/.bin/react-native run-ios",
+    "android": "./node_modules/.bin/react-native run-android"
+  },
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "react": "~15.2.1",
+    "react-native": "0.30.0-rc.0",
+    "react-native-fence-html": "^1.0.6",
+    "react-native-image-progress": "^0.6.0",
+    "react-native-picker": "^3.0.5",
+    "react-native-progress": "^3.1.0",
+    "react-native-root-modal": "^1.0.4",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-simple-modal": "^4.0.1",
+    "react-native-slider": "^0.9.1",
+    "react-native-tableview-simple": "^0.12.0",
+    "react-native-tabs": "^1.0.9",
+    "react-native-vector-icons": "^2.0.3",
+    "react-router": "3.0.0-alpha.1",
+    "react-router-native": "2.0.0-alpha.2",
+    "realm": "^0.14.1"
+  }
+}
